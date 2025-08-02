@@ -227,9 +227,6 @@ class MinimapMarker extends Plugin {
         }
     }
 
-    SocketManager_loggedIn() {
-        this.setMinimapContainer();
-    }
 }
 var MinimapMarker_default = MinimapMarker;
 export {
